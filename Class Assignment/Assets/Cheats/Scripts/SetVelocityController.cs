@@ -30,6 +30,7 @@ public class SetVelocityController : MonoBehaviour
     private void FixedUpdate()
     {
         GroundDetection();
+        Debug.Log("Cookie");
         FlipBehaviour();
         MovementBehaviour();
     }
