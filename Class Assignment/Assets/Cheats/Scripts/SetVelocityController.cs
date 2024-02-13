@@ -29,9 +29,7 @@ public class SetVelocityController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        GroundDetection();
-        FlipBehaviour();
-        MovementBehaviour();
+        Debug.Log("Cake");
     }
     void FlipBehaviour()
     {
