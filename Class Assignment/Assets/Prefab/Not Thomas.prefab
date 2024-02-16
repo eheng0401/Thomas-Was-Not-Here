@@ -186,7 +186,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64ac25e590c494f799e7de683a754abb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  runSpeed: 2
+  runSpeed: 5
   jumpHeight: 10
   direction: {x: 0, y: 0}
   isGrounded: 1
